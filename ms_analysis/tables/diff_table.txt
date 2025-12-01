@@ -1,0 +1,208 @@
+\begin{table}
+\centering
+\begin{tabular}[t]{|c|c|c|c|c|}
+\hline
+Genus 1 & Genus 2 & $\rho_{MS}$ & $\rho_{C}$ & $\rho_{MS}-\rho_{C}$\\
+\hline
+Gallibacterium & Escherichia & \textcolor[HTML]{BBBBBB}{\textbf{0.7002}} & \textcolor[HTML]{91D742}{\textbf{0.3253}} & \textcolor[HTML]{BBDF27}{\textbf{0.3749}}\\
+\hline
+Dialister & Phascolarctobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.5322}} & \textcolor[HTML]{3ABA76}{\textbf{0.1975}} & \textcolor[HTML]{9BD93C}{\textbf{0.3347}}\\
+\hline
+Escherichia & Adlercreutzia & \textcolor[HTML]{BBBBBB}{\textbf{0.5599}} & \textcolor[HTML]{4DC36B}{\textbf{0.231}} & \textcolor[HTML]{95D840}{\textbf{0.329}}\\
+\hline
+Serratia & Escherichia & \textcolor[HTML]{BBBBBB}{\textbf{0.6953}} & \textcolor[HTML]{B9DE28}{\textbf{0.3716}} & \textcolor[HTML]{91D742}{\textbf{0.3237}}\\
+\hline
+Escherichia & Leuconostoc & \textcolor[HTML]{BBBBBB}{\textbf{0.676}} & \textcolor[HTML]{ADDC30}{\textbf{0.3593}} & \textcolor[HTML]{8AD647}{\textbf{0.3167}}\\
+\hline
+Escherichia & Sphingomonas & \textcolor[HTML]{BBBBBB}{\textbf{0.6159}} & \textcolor[HTML]{7DD250}{\textbf{0.2993}} & \textcolor[HTML]{8AD647}{\textbf{0.3166}}\\
+\hline
+Escherichia & Vagococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.7101}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4022}} & \textcolor[HTML]{84D44B}{\textbf{0.3079}}\\
+\hline
+Klebsiella & Escherichia & \textcolor[HTML]{BBBBBB}{\textbf{0.7216}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4202}} & \textcolor[HTML]{7FD34E}{\textbf{0.3013}}\\
+\hline
+Escherichia & Rhizobium & \textcolor[HTML]{BBBBBB}{\textbf{0.6518}} & \textcolor[HTML]{A9DB33}{\textbf{0.352}} & \textcolor[HTML]{7DD250}{\textbf{0.2997}}\\
+\hline
+Escherichia & Synechococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.6531}} & \textcolor[HTML]{ADDC30}{\textbf{0.3569}} & \textcolor[HTML]{7BD151}{\textbf{0.2962}}\\
+\hline
+Dialister & Slackia & \textcolor[HTML]{BBBBBB}{\textbf{0.7149}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4192}} & \textcolor[HTML]{7BD151}{\textbf{0.2957}}\\
+\hline
+Escherichia & Cupriavidus & \textcolor[HTML]{BBBBBB}{\textbf{0.6319}} & \textcolor[HTML]{9DD93B}{\textbf{0.3373}} & \textcolor[HTML]{78D152}{\textbf{0.2946}}\\
+\hline
+Segatella & Barnesiella & \textcolor[HTML]{BBBBBB}{\textbf{0.6308}} & \textcolor[HTML]{9BD93C}{\textbf{0.3364}} & \textcolor[HTML]{78D152}{\textbf{0.2944}}\\
+\hline
+Escherichia & Alistipes & \textcolor[HTML]{BBBBBB}{\textbf{0.5595}} & \textcolor[HTML]{64CB5F}{\textbf{0.2653}} & \textcolor[HTML]{78D152}{\textbf{0.2942}}\\
+\hline
+Escherichia & Ruminiclostridium & \textcolor[HTML]{BBBBBB}{\textbf{0.6133}} & \textcolor[HTML]{8DD645}{\textbf{0.3196}} & \textcolor[HTML]{78D152}{\textbf{0.2938}}\\
+\hline
+Citrobacter & Odoribacter & \textcolor[HTML]{BBBBBB}{\textbf{0.6841}} & \textcolor[HTML]{BBBBBB}{\textbf{0.3911}} & \textcolor[HTML]{78D152}{\textbf{0.293}}\\
+\hline
+Dialister & Collinsella & \textcolor[HTML]{BBBBBB}{\textbf{0.5686}} & \textcolor[HTML]{6CCD5A}{\textbf{0.278}} & \textcolor[HTML]{76D054}{\textbf{0.2906}}\\
+\hline
+Escherichia & Methylobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.6292}} & \textcolor[HTML]{9DD93B}{\textbf{0.3391}} & \textcolor[HTML]{76D054}{\textbf{0.2901}}\\
+\hline
+Stenotrophomonas & Escherichia & \textcolor[HTML]{BBBBBB}{\textbf{0.6012}} & \textcolor[HTML]{8AD647}{\textbf{0.3172}} & \textcolor[HTML]{70CF57}{\textbf{0.284}}\\
+\hline
+Escherichia & Brevibacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.6462}} & \textcolor[HTML]{B2DD2D}{\textbf{0.3637}} & \textcolor[HTML]{70CF57}{\textbf{0.2825}}\\
+\hline
+Escherichia & Staphylococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.6201}} & \textcolor[HTML]{9FDA3A}{\textbf{0.3421}} & \textcolor[HTML]{6CCD5A}{\textbf{0.278}}\\
+\hline
+Dialister & Parafannyhessea & \textcolor[HTML]{BBBBBB}{\textbf{0.7019}} & \textcolor[HTML]{BBBBBB}{\textbf{0.424}} & \textcolor[HTML]{6CCD5A}{\textbf{0.2779}}\\
+\hline
+Escherichia & Aristaeella & \textcolor[HTML]{BBBBBB}{\textbf{0.5216}} & \textcolor[HTML]{54C568}{\textbf{0.2437}} & \textcolor[HTML]{6CCD5A}{\textbf{0.2779}}\\
+\hline
+Escherichia & Anaerotignum & \textcolor[HTML]{BBBBBB}{\textbf{0.6497}} & \textcolor[HTML]{BBDF27}{\textbf{0.374}} & \textcolor[HTML]{6CCD5A}{\textbf{0.2757}}\\
+\hline
+Escherichia & Aeromonas & \textcolor[HTML]{BBBBBB}{\textbf{0.6089}} & \textcolor[HTML]{98D83E}{\textbf{0.3343}} & \textcolor[HTML]{69CD5B}{\textbf{0.2746}}\\
+\hline
+Escherichia & Duncaniella & \textcolor[HTML]{BBBBBB}{\textbf{0.5875}} & \textcolor[HTML]{88D548}{\textbf{0.3144}} & \textcolor[HTML]{69CD5B}{\textbf{0.2731}}\\
+\hline
+Dialister & Xiamenia & \textcolor[HTML]{BBBBBB}{\textbf{0.6962}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4233}} & \textcolor[HTML]{69CD5B}{\textbf{0.2729}}\\
+\hline
+Escherichia & Phascolarctobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.5647}} & \textcolor[HTML]{76D054}{\textbf{0.2921}} & \textcolor[HTML]{67CC5C}{\textbf{0.2726}}\\
+\hline
+Dialister & Chordicoccus & \textcolor[HTML]{BBBBBB}{\textbf{0.7054}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4347}} & \textcolor[HTML]{67CC5C}{\textbf{0.2707}}\\
+\hline
+Dialister & Dysosmobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.7185}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4479}} & \textcolor[HTML]{67CC5C}{\textbf{0.2706}}\\
+\hline
+Escherichia & Odoribacter & \textcolor[HTML]{BBBBBB}{\textbf{0.4087}} & \textcolor[HTML]{24AA83}{\textbf{0.1424}} & \textcolor[HTML]{64CB5F}{\textbf{0.2662}}\\
+\hline
+Dialister & Faecalibaculum & \textcolor[HTML]{BBBBBB}{\textbf{0.7202}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4562}} & \textcolor[HTML]{62CB5F}{\textbf{0.2639}}\\
+\hline
+Escherichia & Nocardioides & \textcolor[HTML]{BBBBBB}{\textbf{0.6235}} & \textcolor[HTML]{B0DD2F}{\textbf{0.3597}} & \textcolor[HTML]{62CB5F}{\textbf{0.2638}}\\
+\hline
+Escherichia & Lactococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.6265}} & \textcolor[HTML]{B2DD2D}{\textbf{0.3633}} & \textcolor[HTML]{62CB5F}{\textbf{0.2632}}\\
+\hline
+Escherichia & Neobacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.6573}} & \textcolor[HTML]{BBBBBB}{\textbf{0.3954}} & \textcolor[HTML]{62CB5F}{\textbf{0.2618}}\\
+\hline
+Escherichia & Caproiciproducens & \textcolor[HTML]{BBBBBB}{\textbf{0.6029}} & \textcolor[HTML]{9FDA3A}{\textbf{0.3412}} & \textcolor[HTML]{62CB5F}{\textbf{0.2617}}\\
+\hline
+Escherichia & Bradyrhizobium & \textcolor[HTML]{BBBBBB}{\textbf{0.6278}} & \textcolor[HTML]{B4DE2B}{\textbf{0.3662}} & \textcolor[HTML]{5FCA61}{\textbf{0.2616}}\\
+\hline
+Gallibacterium & Dialister & \textcolor[HTML]{BBBBBB}{\textbf{0.6083}} & \textcolor[HTML]{A3DA37}{\textbf{0.3474}} & \textcolor[HTML]{5FCA61}{\textbf{0.2609}}\\
+\hline
+Escherichia & Caproicibacter & \textcolor[HTML]{BBBBBB}{\textbf{0.5989}} & \textcolor[HTML]{9DD93B}{\textbf{0.3388}} & \textcolor[HTML]{5FCA61}{\textbf{0.2601}}\\
+\hline
+Coprobacter & Dialister & \textcolor[HTML]{BBBBBB}{\textbf{0.6228}} & \textcolor[HTML]{B2DD2D}{\textbf{0.3634}} & \textcolor[HTML]{5FCA61}{\textbf{0.2594}}\\
+\hline
+Murdochiella & Dialister & \textcolor[HTML]{BBBBBB}{\textbf{0.7123}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4534}} & \textcolor[HTML]{5FCA61}{\textbf{0.259}}\\
+\hline
+Escherichia & Streptomyces & \textcolor[HTML]{BBBBBB}{\textbf{0.6159}} & \textcolor[HTML]{ADDC30}{\textbf{0.3571}} & \textcolor[HTML]{5DC962}{\textbf{0.2588}}\\
+\hline
+Escherichia & Paludihabitans & \textcolor[HTML]{BBBBBB}{\textbf{0.5785}} & \textcolor[HTML]{8DD645}{\textbf{0.32}} & \textcolor[HTML]{5DC962}{\textbf{0.2585}}\\
+\hline
+Dialister & Staphylococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.7144}} & \textcolor[HTML]{BBBBBB}{\textbf{0.456}} & \textcolor[HTML]{5DC962}{\textbf{0.2584}}\\
+\hline
+Escherichia & Mucilaginibacter & \textcolor[HTML]{BBBBBB}{\textbf{0.6302}} & \textcolor[HTML]{B9DE28}{\textbf{0.3721}} & \textcolor[HTML]{5DC962}{\textbf{0.258}}\\
+\hline
+Escherichia & Acidaminococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.4927}} & \textcolor[HTML]{4FC36A}{\textbf{0.2349}} & \textcolor[HTML]{5DC962}{\textbf{0.2578}}\\
+\hline
+Escherichia & Cutibacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.5989}} & \textcolor[HTML]{9FDA3A}{\textbf{0.3419}} & \textcolor[HTML]{5DC962}{\textbf{0.257}}\\
+\hline
+Escherichia & Hymenobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.611}} & \textcolor[HTML]{ABDC32}{\textbf{0.3541}} & \textcolor[HTML]{5DC962}{\textbf{0.2569}}\\
+\hline
+Escherichia & Mesorhizobium & \textcolor[HTML]{BBBBBB}{\textbf{0.6173}} & \textcolor[HTML]{B0DD2F}{\textbf{0.3605}} & \textcolor[HTML]{5DC962}{\textbf{0.2569}}\\
+\hline
+Acinetobacter & Escherichia & \textcolor[HTML]{BBBBBB}{\textbf{0.6435}} & \textcolor[HTML]{BBBBBB}{\textbf{0.3868}} & \textcolor[HTML]{5DC962}{\textbf{0.2568}}\\
+\hline
+Escherichia & Thermocaproicibacter & \textcolor[HTML]{BBBBBB}{\textbf{0.5844}} & \textcolor[HTML]{93D741}{\textbf{0.3279}} & \textcolor[HTML]{5DC962}{\textbf{0.2566}}\\
+\hline
+Dialister & Claveliimonas & \textcolor[HTML]{BBBBBB}{\textbf{0.7232}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4669}} & \textcolor[HTML]{5DC962}{\textbf{0.2563}}\\
+\hline
+Escherichia & Nocardia & \textcolor[HTML]{BBBBBB}{\textbf{0.6186}} & \textcolor[HTML]{B2DD2D}{\textbf{0.3625}} & \textcolor[HTML]{5DC962}{\textbf{0.2561}}\\
+\hline
+Dialister & Pseudobutyrivibrio & \textcolor[HTML]{BBBBBB}{\textbf{0.7362}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4823}} & \textcolor[HTML]{5CC863}{\textbf{0.2539}}\\
+\hline
+Escherichia & Limosilactobacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.6257}} & \textcolor[HTML]{B9DE28}{\textbf{0.3719}} & \textcolor[HTML]{5CC863}{\textbf{0.2537}}\\
+\hline
+Escherichia & Micromonospora & \textcolor[HTML]{BBBBBB}{\textbf{0.6045}} & \textcolor[HTML]{A9DB33}{\textbf{0.3523}} & \textcolor[HTML]{5AC864}{\textbf{0.2522}}\\
+\hline
+Sphingomonas & Dialister & \textcolor[HTML]{BBBBBB}{\textbf{0.7128}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4625}} & \textcolor[HTML]{58C765}{\textbf{0.2503}}\\
+\hline
+Dialister & Cutibacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.6825}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4328}} & \textcolor[HTML]{58C765}{\textbf{0.2497}}\\
+\hline
+Escherichia & Deinococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.6106}} & \textcolor[HTML]{B0DD2F}{\textbf{0.3615}} & \textcolor[HTML]{58C765}{\textbf{0.2491}}\\
+\hline
+Escherichia & Amycolatopsis & \textcolor[HTML]{BBBBBB}{\textbf{0.6165}} & \textcolor[HTML]{B4DE2B}{\textbf{0.3679}} & \textcolor[HTML]{58C765}{\textbf{0.2485}}\\
+\hline
+Dialister & Parolsenella & \textcolor[HTML]{BBBBBB}{\textbf{0.6607}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4129}} & \textcolor[HTML]{58C765}{\textbf{0.2478}}\\
+\hline
+Paraprevotella & Dialister & \textcolor[HTML]{BBBBBB}{\textbf{0.7081}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4607}} & \textcolor[HTML]{56C667}{\textbf{0.2474}}\\
+\hline
+Serratia & Dialister & \textcolor[HTML]{BBBBBB}{\textbf{0.6901}} & \textcolor[HTML]{BBBBBB}{\textbf{0.443}} & \textcolor[HTML]{56C667}{\textbf{0.2471}}\\
+\hline
+Dialister & Faecalibacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.7027}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4562}} & \textcolor[HTML]{56C667}{\textbf{0.2465}}\\
+\hline
+Escherichia & Finegoldia & \textcolor[HTML]{BBBBBB}{\textbf{0.6184}} & \textcolor[HTML]{B9DE28}{\textbf{0.372}} & \textcolor[HTML]{56C667}{\textbf{0.2464}}\\
+\hline
+Desulfovibrio & Escherichia & \textcolor[HTML]{BBBBBB}{\textbf{0.5493}} & \textcolor[HTML]{7FD34E}{\textbf{0.3034}} & \textcolor[HTML]{56C667}{\textbf{0.2459}}\\
+\hline
+Escherichia & Peptacetobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.6728}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4272}} & \textcolor[HTML]{56C667}{\textbf{0.2456}}\\
+\hline
+Dialister & Intestinimonas & \textcolor[HTML]{BBBBBB}{\textbf{0.6728}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4275}} & \textcolor[HTML]{56C667}{\textbf{0.2453}}\\
+\hline
+Escherichia & Berryella & \textcolor[HTML]{BBBBBB}{\textbf{0.5656}} & \textcolor[HTML]{8FD644}{\textbf{0.3206}} & \textcolor[HTML]{56C667}{\textbf{0.245}}\\
+\hline
+Escherichia & Arthrobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.6176}} & \textcolor[HTML]{B9DE28}{\textbf{0.373}} & \textcolor[HTML]{54C568}{\textbf{0.2447}}\\
+\hline
+Dialister & Pusillibacter & \textcolor[HTML]{BBBBBB}{\textbf{0.6873}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4435}} & \textcolor[HTML]{54C568}{\textbf{0.2439}}\\
+\hline
+Halomonas & Escherichia & \textcolor[HTML]{BBBBBB}{\textbf{0.614}} & \textcolor[HTML]{B7DE29}{\textbf{0.3702}} & \textcolor[HTML]{54C568}{\textbf{0.2438}}\\
+\hline
+Escherichia & Phoenicibacter & \textcolor[HTML]{BBBBBB}{\textbf{0.6281}} & \textcolor[HTML]{BBBBBB}{\textbf{0.3847}} & \textcolor[HTML]{54C568}{\textbf{0.2434}}\\
+\hline
+Dialister & Fannyhessea & \textcolor[HTML]{BBBBBB}{\textbf{0.6829}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4401}} & \textcolor[HTML]{54C568}{\textbf{0.2428}}\\
+\hline
+Escherichia & Caproicibacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.6051}} & \textcolor[HTML]{B2DD2D}{\textbf{0.3626}} & \textcolor[HTML]{54C568}{\textbf{0.2425}}\\
+\hline
+Flavobacterium & Dialister & \textcolor[HTML]{BBBBBB}{\textbf{0.7409}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4989}} & \textcolor[HTML]{53C569}{\textbf{0.2421}}\\
+\hline
+Xanthomonas & Escherichia & \textcolor[HTML]{BBBBBB}{\textbf{0.5967}} & \textcolor[HTML]{ABDC32}{\textbf{0.3556}} & \textcolor[HTML]{53C569}{\textbf{0.241}}\\
+\hline
+Vibrio & Escherichia & \textcolor[HTML]{BBBBBB}{\textbf{0.6326}} & \textcolor[HTML]{BBBBBB}{\textbf{0.3929}} & \textcolor[HTML]{53C569}{\textbf{0.2397}}\\
+\hline
+Dialister & Ruminiclostridium & \textcolor[HTML]{BBBBBB}{\textbf{0.706}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4665}} & \textcolor[HTML]{53C569}{\textbf{0.2396}}\\
+\hline
+Xanthomonas & Dialister & \textcolor[HTML]{BBBBBB}{\textbf{0.7}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4604}} & \textcolor[HTML]{53C569}{\textbf{0.2395}}\\
+\hline
+Escherichia & Sphingobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.6086}} & \textcolor[HTML]{B7DE29}{\textbf{0.3696}} & \textcolor[HTML]{51C46A}{\textbf{0.2391}}\\
+\hline
+Escherichia & Levilactobacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.6729}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4339}} & \textcolor[HTML]{51C46A}{\textbf{0.239}}\\
+\hline
+Escherichia & Shewanella & \textcolor[HTML]{BBBBBB}{\textbf{0.6264}} & \textcolor[HTML]{BBBBBB}{\textbf{0.3881}} & \textcolor[HTML]{51C46A}{\textbf{0.2382}}\\
+\hline
+Halomonas & Dialister & \textcolor[HTML]{BBBBBB}{\textbf{0.719}} & \textcolor[HTML]{BBBBBB}{\textbf{0.481}} & \textcolor[HTML]{51C46A}{\textbf{0.2381}}\\
+\hline
+Dialister & Nocardioides & \textcolor[HTML]{BBBBBB}{\textbf{0.7075}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4697}} & \textcolor[HTML]{51C46A}{\textbf{0.2379}}\\
+\hline
+Phocaeicola & Dialister & \textcolor[HTML]{BBBBBB}{\textbf{0.6983}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4607}} & \textcolor[HTML]{51C46A}{\textbf{0.2376}}\\
+\hline
+Aeromonas & Dialister & \textcolor[HTML]{BBBBBB}{\textbf{0.7189}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4813}} & \textcolor[HTML]{51C46A}{\textbf{0.2376}}\\
+\hline
+Dialister & Heyndrickxia & \textcolor[HTML]{BBBBBB}{\textbf{0.7046}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4672}} & \textcolor[HTML]{51C46A}{\textbf{0.2374}}\\
+\hline
+Dialister & Berryella & \textcolor[HTML]{BBBBBB}{\textbf{0.6742}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4375}} & \textcolor[HTML]{51C46A}{\textbf{0.2367}}\\
+\hline
+Escherichia & Megasphaera & \textcolor[HTML]{BBBBBB}{\textbf{0.5786}} & \textcolor[HTML]{9FDA3A}{\textbf{0.3427}} & \textcolor[HTML]{4FC36A}{\textbf{0.2359}}\\
+\hline
+Escherichia & Faecalibacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.6531}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4174}} & \textcolor[HTML]{4FC36A}{\textbf{0.2357}}\\
+\hline
+Escherichia & Collinsella & \textcolor[HTML]{BBBBBB}{\textbf{0.5076}} & \textcolor[HTML]{67CC5C}{\textbf{0.2725}} & \textcolor[HTML]{4FC36A}{\textbf{0.2351}}\\
+\hline
+Escherichia & Mycolicibacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.6282}} & \textcolor[HTML]{BBBBBB}{\textbf{0.3939}} & \textcolor[HTML]{4FC36A}{\textbf{0.2344}}\\
+\hline
+Dialister & Flintibacter & \textcolor[HTML]{BBBBBB}{\textbf{0.7027}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4683}} & \textcolor[HTML]{4FC36A}{\textbf{0.2343}}\\
+\hline
+Dialister & Micromonospora & \textcolor[HTML]{BBBBBB}{\textbf{0.7021}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4689}} & \textcolor[HTML]{4DC36B}{\textbf{0.2332}}\\
+\hline
+Leptotrichia & Dialister & \textcolor[HTML]{BBBBBB}{\textbf{0.7107}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4776}} & \textcolor[HTML]{4DC36B}{\textbf{0.233}}\\
+\hline
+Acinetobacter & Dialister & \textcolor[HTML]{BBBBBB}{\textbf{0.7212}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4885}} & \textcolor[HTML]{4DC36B}{\textbf{0.2327}}\\
+\hline
+Acidaminococcus & Limosilactobacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.522}} & \textcolor[HTML]{BBBBBB}{\textbf{0.7573}} & \textcolor[HTML]{472E7C}{\textbf{-0.2353}}\\
+\hline
+Lacticaseibacillus & Raoultibacter & \textcolor[HTML]{BBBBBB}{\textbf{0.3834}} & \textcolor[HTML]{BBBBBB}{\textbf{0.6736}} & \textcolor[HTML]{481769}{\textbf{-0.2903}}\\
+\hline
+Turicibacter & Raoultibacter & \textcolor[HTML]{BBBBBB}{\textbf{0.4454}} & \textcolor[HTML]{BBBBBB}{\textbf{0.7833}} & \textcolor[HTML]{440154}{\textbf{-0.338}}\\
+\hline
+\end{tabular}
+\end{table}

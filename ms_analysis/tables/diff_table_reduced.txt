@@ -1,0 +1,58 @@
+\begin{table}
+\centering
+\begin{tabular}[t]{|c|c|c|c|c|}
+\hline
+Genus 1 & Genus 2 & $\rho_{MS}$ & $\rho_{C}$ & $\rho_{MS}-\rho_{C}$\\
+\hline
+Gallibacterium & Escherichia & \textcolor[HTML]{BBBBBB}{\textbf{0.7002}} & \textcolor[HTML]{91D742}{\textbf{0.3253}} & \textcolor[HTML]{BBDF27}{\textbf{0.3749}}\\
+\hline
+Dialister & Phascolarctobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.5322}} & \textcolor[HTML]{3ABA76}{\textbf{0.1975}} & \textcolor[HTML]{9BD93C}{\textbf{0.3347}}\\
+\hline
+Escherichia & Adlercreutzia & \textcolor[HTML]{BBBBBB}{\textbf{0.5599}} & \textcolor[HTML]{4DC36B}{\textbf{0.231}} & \textcolor[HTML]{95D840}{\textbf{0.329}}\\
+\hline
+Serratia & Escherichia & \textcolor[HTML]{BBBBBB}{\textbf{0.6953}} & \textcolor[HTML]{B9DE28}{\textbf{0.3716}} & \textcolor[HTML]{91D742}{\textbf{0.3237}}\\
+\hline
+Escherichia & Leuconostoc & \textcolor[HTML]{BBBBBB}{\textbf{0.676}} & \textcolor[HTML]{ADDC30}{\textbf{0.3593}} & \textcolor[HTML]{8AD647}{\textbf{0.3167}}\\
+\hline
+Escherichia & Sphingomonas & \textcolor[HTML]{BBBBBB}{\textbf{0.6159}} & \textcolor[HTML]{7DD250}{\textbf{0.2993}} & \textcolor[HTML]{8AD647}{\textbf{0.3166}}\\
+\hline
+Escherichia & Vagococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.7101}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4022}} & \textcolor[HTML]{84D44B}{\textbf{0.3079}}\\
+\hline
+Klebsiella & Escherichia & \textcolor[HTML]{BBBBBB}{\textbf{0.7216}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4202}} & \textcolor[HTML]{7FD34E}{\textbf{0.3013}}\\
+\hline
+Escherichia & Rhizobium & \textcolor[HTML]{BBBBBB}{\textbf{0.6518}} & \textcolor[HTML]{A9DB33}{\textbf{0.352}} & \textcolor[HTML]{7DD250}{\textbf{0.2997}}\\
+\hline
+Escherichia & Synechococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.6531}} & \textcolor[HTML]{ADDC30}{\textbf{0.3569}} & \textcolor[HTML]{7BD151}{\textbf{0.2962}}\\
+\hline
+Dialister & Slackia & \textcolor[HTML]{BBBBBB}{\textbf{0.7149}} & \textcolor[HTML]{BBBBBB}{\textbf{0.4192}} & \textcolor[HTML]{7BD151}{\textbf{0.2957}}\\
+\hline
+Escherichia & Cupriavidus & \textcolor[HTML]{BBBBBB}{\textbf{0.6319}} & \textcolor[HTML]{9DD93B}{\textbf{0.3373}} & \textcolor[HTML]{78D152}{\textbf{0.2946}}\\
+\hline
+Segatella & Barnesiella & \textcolor[HTML]{BBBBBB}{\textbf{0.6308}} & \textcolor[HTML]{9BD93C}{\textbf{0.3364}} & \textcolor[HTML]{78D152}{\textbf{0.2944}}\\
+\hline
+Escherichia & Alistipes & \textcolor[HTML]{BBBBBB}{\textbf{0.5595}} & \textcolor[HTML]{64CB5F}{\textbf{0.2653}} & \textcolor[HTML]{78D152}{\textbf{0.2942}}\\
+\hline
+Escherichia & Ruminiclostridium & \textcolor[HTML]{BBBBBB}{\textbf{0.6133}} & \textcolor[HTML]{8DD645}{\textbf{0.3196}} & \textcolor[HTML]{78D152}{\textbf{0.2938}}\\
+\hline
+Citrobacter & Odoribacter & \textcolor[HTML]{BBBBBB}{\textbf{0.6841}} & \textcolor[HTML]{BBBBBB}{\textbf{0.3911}} & \textcolor[HTML]{78D152}{\textbf{0.293}}\\
+\hline
+Dialister & Collinsella & \textcolor[HTML]{BBBBBB}{\textbf{0.5686}} & \textcolor[HTML]{6CCD5A}{\textbf{0.278}} & \textcolor[HTML]{76D054}{\textbf{0.2906}}\\
+\hline
+Escherichia & Methylobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.6292}} & \textcolor[HTML]{9DD93B}{\textbf{0.3391}} & \textcolor[HTML]{76D054}{\textbf{0.2901}}\\
+\hline
+Stenotrophomonas & Escherichia & \textcolor[HTML]{BBBBBB}{\textbf{0.6012}} & \textcolor[HTML]{8AD647}{\textbf{0.3172}} & \textcolor[HTML]{70CF57}{\textbf{0.284}}\\
+\hline
+Escherichia & Brevibacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.6462}} & \textcolor[HTML]{B2DD2D}{\textbf{0.3637}} & \textcolor[HTML]{70CF57}{\textbf{0.2825}}\\
+\hline
+Escherichia & Staphylococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.6201}} & \textcolor[HTML]{9FDA3A}{\textbf{0.3421}} & \textcolor[HTML]{6CCD5A}{\textbf{0.278}}\\
+\hline
+Dialister & Parafannyhessea & \textcolor[HTML]{BBBBBB}{\textbf{0.7019}} & \textcolor[HTML]{BBBBBB}{\textbf{0.424}} & \textcolor[HTML]{6CCD5A}{\textbf{0.2779}}\\
+\hline
+Escherichia & Aristaeella & \textcolor[HTML]{BBBBBB}{\textbf{0.5216}} & \textcolor[HTML]{54C568}{\textbf{0.2437}} & \textcolor[HTML]{6CCD5A}{\textbf{0.2779}}\\
+\hline
+Lacticaseibacillus & Raoultibacter & \textcolor[HTML]{BBBBBB}{\textbf{0.3834}} & \textcolor[HTML]{BBBBBB}{\textbf{0.6736}} & \textcolor[HTML]{481769}{\textbf{-0.2903}}\\
+\hline
+Turicibacter & Raoultibacter & \textcolor[HTML]{BBBBBB}{\textbf{0.4454}} & \textcolor[HTML]{BBBBBB}{\textbf{0.7833}} & \textcolor[HTML]{440154}{\textbf{-0.338}}\\
+\hline
+\end{tabular}
+\end{table}

@@ -5,21 +5,21 @@ library(ggplot2)
 library(ggVennDiagram)
 library(compositions)
 library(kableExtra)
-source("proportionality_code/mle_single_cell/variation_functions.R")
+source("proportionality_code/mle_multinom_logit/variation_functions.R")
 #source("~/Dropbox/Documents/research/code/variation_estimation/single_cell/R/helper_functions.R")
-source("proportionality_code/mle_single_cell/mle_multinom_logit_normal.R")
-source("/Users/kevin/Dropbox/Documents/research/collaborators/heather_armstrong/data/pedes_ms/R/helper_functions.R")
+source("proportionality_code/mle_multinom_logit/mle_multinom_logit_normal.R")
+source("proportionality_code/ms_analysis/helper_functions.R")
 
-load("/Users/kevin/Dropbox/Documents/research/collaborators/heather_armstrong/data/pedes_ms_2024/cleaned_data/ms_pedes_cleaned.RData")
+load("data/ms/ms_pedes_cleaned.RData")
 n.g <- NCOL(ms.genus)
 
 # Load model-based variation on MS samples
 ms.genus.ms <- ms.genus[covars$Diagnosis=="MS",]
-load("/Users/kevin/Dropbox/Documents/research/collaborators/heather_armstrong/data/pedes_ms_2024/from_graham/ms_pedes_mle_control_ebic.RData")
+load("data/ms/ms_pedes_mle_control_ebic.RData")
 
 # Load model-based variation on control samples
 ms.genus.control <- ms.genus[covars$Diagnosis=="Controls",]
-load("/Users/kevin/Dropbox/Documents/research/collaborators/heather_armstrong/data/pedes_ms_2024/from_graham/ms_pedes_mle_ms_ebic.RData")
+load("data/ms/ms_pedes_mle_ms_ebic.RData")
 
  # Parameter estimates
 mu.ms <- mle.ms$est.min$mu
@@ -68,7 +68,7 @@ p <- ggVennDiagram(rho.int.list, category.names = c("MS", "Control")) +
   theme(legend.position = "none") +
   scale_fill_distiller(palette = "Reds", direction = 1) +
   coord_flip()
-ggsave("/Users/kevin/Dropbox/Documents/research/collaborators/heather_armstrong/data/pedes_ms_2024/plots/venn_top_100.pdf", 
+ggsave("proportionality_code/ms_analysis/plots/venn_top_100.pdf", 
        p, device="pdf", height=8, width=12)
 
 # Top differences MS vs control
@@ -170,7 +170,7 @@ diff.spec.tab[3:5] <- lapply(diff.spec.tab[3:5], function(x){
 })
 diff.t <- kbl(diff.spec.tab, escape = F, align = c("|c","c","c","c","c|"), format="latex") %>%
   kable_classic_2("striped", full_width = F)
-write(diff.t, "/Users/kevin/Dropbox/Documents/research/collaborators/heather_armstrong/data/pedes_ms_2024/tables/diff_table.txt")
+write(diff.t, "proportionality_code/ms_analysis/tables/diff_table.txt")
 
 
 
@@ -186,7 +186,7 @@ ms.spec.tab[3] <- cell_spec(ms.spec.tab[[3]], bold = T,
                              format="latex")
 ms.t <- kbl(ms.spec.tab, escape = F, align = c("|c","c","c|"), format="latex") %>%
   kable_classic("striped", full_width = F)
-write(ms.t, "/Users/kevin/Dropbox/Documents/research/collaborators/heather_armstrong/data/pedes_ms_2024/tables/ms_table.txt")
+write(ms.t, "proportionality_code/ms_analysis/tables/ms_table.txt")
 
 
 # Table for top control pairs
@@ -201,7 +201,7 @@ c.spec.tab[3] <- cell_spec(c.spec.tab[[3]], bold = T,
                            format="latex")
 c.t <- kbl(c.spec.tab, escape = F, align = c("|c","c","c|"), format="latex") %>%
   kable_classic("striped", full_width = F)
-write(c.t, "/Users/kevin/Dropbox/Documents/research/collaborators/heather_armstrong/data/pedes_ms_2024/tables/control_table.txt")
+write(c.t, "proportionality_code/ms_analysis/tables/control_table.txt")
 
 
 
@@ -220,41 +220,5 @@ diff.spec.reduced[3:5] <- lapply(diff.spec.reduced[3:5], function(x){
 })
 diff.t.reduced <- kbl(diff.spec.reduced, escape = F, align = c("|c","c","c","c","c|"), format="latex") %>%
   kable_classic_2("striped", full_width = F)
-write(diff.t.reduced, "/Users/kevin/Dropbox/Documents/research/collaborators/heather_armstrong/data/pedes_ms_2024/tables/diff_table_reduced.txt")
-
-
-# Comparing rho est vs naive values
-p <- ms.genus.ms/rowSums(ms.genus.ms)
-mean.p <- colMeans(p)
-ppt <- outer(mean.p[-n.g], mean.p[-n.g], pmin)
-cl <- log(ppt+0.001) - min(log(ppt+0.001))
-
-lt <- lower.tri(rho.ms)
-ord <- order(cl[lt])
-
-df.rho.ms <- data.frame(naive=rho.naive.ms[lt][ord], model=rho.ms[-n.g,-n.g][lt][ord])
-rho.plot.ms <- ggplot(df.rho.ms, aes(x=naive, y=model, color=cl[lt][ord])) +
-  geom_point() +
-  theme_minimal() +
-  scale_colour_gradient(low="green", high="red") + 
-  geom_abline(intercept=0, slope=1) +
-  geom_hline(yintercept=0, linetype="dashed", color = "black", size=0.1) +
-  geom_vline(xintercept=0, linetype="dashed", color = "black", size=0.1) +
-  xlab("Rho (Empirical)") +
-  ylab("Rho (Model-based)") +
-  labs(color="Min abundance")
-ggsave("/Users/kevin/Dropbox/Documents/research/collaborators/heather_armstrong/data/pedes_ms_2024/plots/rho_plot_ms.pdf", 
-       rho.plot.ms, height=6, width=8)
-
-df.rho.c <- data.frame(naive=rho.naive.c[lt][ord], model=rho.c[-n.g,-n.g][lt][ord])
-rho.plot.c <- ggplot(df.rho.c, aes(x=naive, y=model, color=cl[lt][ord])) +
-  geom_point() +
-  theme_minimal() +
-  scale_colour_gradient(low="green", high="red") + 
-  geom_abline(intercept=0, slope=1) +
-  geom_hline(yintercept=0, linetype="dashed", color = "black", size=0.1) +
-  geom_vline(xintercept=0, linetype="dashed", color = "black", size=0.1) +
-  xlab("Rho (Empirical)") +
-  ylab("Rho (Model-based)") +
-  labs(color="Min abundance")
+write(diff.t.reduced, "proportionality_code/ms_analysis/tables/diff_table_reduced.txt")
 

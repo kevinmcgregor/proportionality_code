@@ -1,0 +1,208 @@
+\begin{table}
+\centering
+\begin{tabular}[t]{|c|c|c|}
+\hline
+Genus 1 & Genus 2 & $\rho_{MS}$\\
+\hline
+Vibrio & Acinetobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9369}}\\
+\hline
+Acinetobacter & Neobacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9352}}\\
+\hline
+Mucilaginibacter & Flavobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9342}}\\
+\hline
+Chryseobacterium & Flavobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9335}}\\
+\hline
+Mucilaginibacter & Chryseobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9316}}\\
+\hline
+Vibrio & Flavobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9301}}\\
+\hline
+Halomonas & Acinetobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9296}}\\
+\hline
+Vibrio & Halomonas & \textcolor[HTML]{BBBBBB}{\textbf{0.9295}}\\
+\hline
+Vibrio & Neobacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9294}}\\
+\hline
+Vibrio & Chryseobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9294}}\\
+\hline
+Acinetobacter & Mucilaginibacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9293}}\\
+\hline
+Acinetobacter & Planococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.9289}}\\
+\hline
+Sphingobacterium & Mucilaginibacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9286}}\\
+\hline
+Planococcus & Paenibacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9283}}\\
+\hline
+Paeniclostridium & Paraclostridium & \textcolor[HTML]{BBBBBB}{\textbf{0.9283}}\\
+\hline
+Acinetobacter & Cupriavidus & \textcolor[HTML]{BBBBBB}{\textbf{0.928}}\\
+\hline
+Acinetobacter & Paenibacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9279}}\\
+\hline
+Nocardioides & Arthrobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9278}}\\
+\hline
+Flavobacterium & Hymenobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9277}}\\
+\hline
+Mucilaginibacter & Hymenobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9274}}\\
+\hline
+Acinetobacter & Shewanella & \textcolor[HTML]{BBBBBB}{\textbf{0.9274}}\\
+\hline
+Halomonas & Arthrobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9272}}\\
+\hline
+Acinetobacter & Anaeromicropila & \textcolor[HTML]{BBBBBB}{\textbf{0.9271}}\\
+\hline
+Methylobacterium & Amycolatopsis & \textcolor[HTML]{BBBBBB}{\textbf{0.9268}}\\
+\hline
+Bradyrhizobium & Synechococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.9268}}\\
+\hline
+Vibrio & Mucilaginibacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9263}}\\
+\hline
+Brevibacillus & Neobacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9259}}\\
+\hline
+Acinetobacter & Chryseobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9259}}\\
+\hline
+Halomonas & Planococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.9256}}\\
+\hline
+Vibrio & Planococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.9256}}\\
+\hline
+Cupriavidus & Neobacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9254}}\\
+\hline
+Shewanella & Planococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.9253}}\\
+\hline
+Acinetobacter & Brevibacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9252}}\\
+\hline
+Cupriavidus & Microbacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9249}}\\
+\hline
+Serratia & Vagococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.9249}}\\
+\hline
+Anaeromicropila & Anaerocolumna & \textcolor[HTML]{BBBBBB}{\textbf{0.9246}}\\
+\hline
+Vibrio & Shewanella & \textcolor[HTML]{BBBBBB}{\textbf{0.9246}}\\
+\hline
+Pseudobutyrivibrio & Anaerocolumna & \textcolor[HTML]{BBBBBB}{\textbf{0.9245}}\\
+\hline
+Cupriavidus & Synechococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.9242}}\\
+\hline
+Acinetobacter & Flavobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9241}}\\
+\hline
+Vibrio & Cupriavidus & \textcolor[HTML]{BBBBBB}{\textbf{0.9239}}\\
+\hline
+Cupriavidus & Amycolatopsis & \textcolor[HTML]{BBBBBB}{\textbf{0.9237}}\\
+\hline
+Komagataeibacter & Fannyhessea & \textcolor[HTML]{BBBBBB}{\textbf{0.9236}}\\
+\hline
+Acinetobacter & Arthrobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9236}}\\
+\hline
+Halomonas & Cupriavidus & \textcolor[HTML]{BBBBBB}{\textbf{0.9235}}\\
+\hline
+Rhodococcus & Arthrobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9233}}\\
+\hline
+Acinetobacter & Synechococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.9233}}\\
+\hline
+Amycolatopsis & Arthrobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9232}}\\
+\hline
+Amycolatopsis & Nocardioides & \textcolor[HTML]{BBBBBB}{\textbf{0.9231}}\\
+\hline
+Acinetobacter & Microbacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9231}}\\
+\hline
+Cupriavidus & Bradyrhizobium & \textcolor[HTML]{BBBBBB}{\textbf{0.9229}}\\
+\hline
+Acinetobacter & Listeria & \textcolor[HTML]{BBBBBB}{\textbf{0.9226}}\\
+\hline
+Halomonas & Rhodococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.9226}}\\
+\hline
+Halomonas & Mesorhizobium & \textcolor[HTML]{BBBBBB}{\textbf{0.9226}}\\
+\hline
+Halomonas & Shewanella & \textcolor[HTML]{BBBBBB}{\textbf{0.9226}}\\
+\hline
+Halomonas & Amycolatopsis & \textcolor[HTML]{BBBBBB}{\textbf{0.9224}}\\
+\hline
+Serratia & Neobacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9222}}\\
+\hline
+Halomonas & Flavobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9222}}\\
+\hline
+Cupriavidus & Nocardioides & \textcolor[HTML]{BBBBBB}{\textbf{0.9221}}\\
+\hline
+Cupriavidus & Methylobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9221}}\\
+\hline
+Acinetobacter & Methylobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9221}}\\
+\hline
+Mesorhizobium & Microbacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9218}}\\
+\hline
+Vibrio & Acetobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9218}}\\
+\hline
+Bradyrhizobium & Rhodococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.9217}}\\
+\hline
+Sphingomonas & Synechococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.9217}}\\
+\hline
+Nocardioides & Microbacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9216}}\\
+\hline
+Cupriavidus & Brevibacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9216}}\\
+\hline
+Cupriavidus & Mesorhizobium & \textcolor[HTML]{BBBBBB}{\textbf{0.9216}}\\
+\hline
+Halomonas & Microbacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9216}}\\
+\hline
+Anaeromicropila & Acetobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9215}}\\
+\hline
+Halomonas & Paenibacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9215}}\\
+\hline
+Halomonas & Hymenobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9215}}\\
+\hline
+Cupriavidus & Arthrobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9213}}\\
+\hline
+Halomonas & Nocardioides & \textcolor[HTML]{BBBBBB}{\textbf{0.9212}}\\
+\hline
+Sphingobacterium & Flavobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9209}}\\
+\hline
+Bradyrhizobium & Hymenobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9208}}\\
+\hline
+Planococcus & Neobacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9206}}\\
+\hline
+Planococcus & Arthrobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9205}}\\
+\hline
+Roseburia & Butyrivibrio & \textcolor[HTML]{BBBBBB}{\textbf{0.9205}}\\
+\hline
+Synechococcus & Brevibacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9204}}\\
+\hline
+Cupriavidus & Rhodococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.9204}}\\
+\hline
+Vibrio & Listeria & \textcolor[HTML]{BBBBBB}{\textbf{0.9203}}\\
+\hline
+Mesorhizobium & Hymenobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9202}}\\
+\hline
+Sphingomonas & Bradyrhizobium & \textcolor[HTML]{BBBBBB}{\textbf{0.9201}}\\
+\hline
+Halomonas & Neobacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.92}}\\
+\hline
+Acinetobacter & Hymenobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9199}}\\
+\hline
+Cupriavidus & Planococcus & \textcolor[HTML]{BBBBBB}{\textbf{0.9198}}\\
+\hline
+Acinetobacter & Acetobacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9198}}\\
+\hline
+Planococcus & Amycolatopsis & \textcolor[HTML]{BBBBBB}{\textbf{0.9197}}\\
+\hline
+Planococcus & Brevibacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9196}}\\
+\hline
+Brevibacillus & Amycolatopsis & \textcolor[HTML]{BBBBBB}{\textbf{0.9195}}\\
+\hline
+Methylobacterium & Brevibacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9195}}\\
+\hline
+Bradyrhizobium & Brevibacillus & \textcolor[HTML]{BBBBBB}{\textbf{0.9195}}\\
+\hline
+Acinetobacter & Kineothrix & \textcolor[HTML]{BBBBBB}{\textbf{0.9195}}\\
+\hline
+Paenibacillus & Microbacterium & \textcolor[HTML]{BBBBBB}{\textbf{0.9194}}\\
+\hline
+Synechococcus & Hymenobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9194}}\\
+\hline
+Bradyrhizobium & Arthrobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9194}}\\
+\hline
+Cupriavidus & Hymenobacter & \textcolor[HTML]{BBBBBB}{\textbf{0.9194}}\\
+\hline
+Acinetobacter & Anaerocolumna & \textcolor[HTML]{BBBBBB}{\textbf{0.9194}}\\
+\hline
+Acinetobacter & Amycolatopsis & \textcolor[HTML]{BBBBBB}{\textbf{0.9193}}\\
+\hline
+\end{tabular}
+\end{table}
