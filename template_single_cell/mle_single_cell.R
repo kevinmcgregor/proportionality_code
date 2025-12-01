@@ -1,8 +1,8 @@
 # Saving MLE fit from single-cell dataset to use in simulations
 
-source("~/research/variation/R/mle_multinom_logit/mle_multinom_logit_normal.R")
+source("proportionality_code/mle_multinom_logit/mle_multinom_logit_normal.R")
 
-load("/project/def-kdm147/kdm147/single_cell/large_cleaned_data_G1.RData")
+load("data/simulation/large_cleaned_data_G1.RData")
 
 # First argument for this script is the number of features to subset
 # Second argument contains output directory
