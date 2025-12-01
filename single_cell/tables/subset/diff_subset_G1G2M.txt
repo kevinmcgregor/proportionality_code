@@ -1,0 +1,58 @@
+\begin{table}
+\centering
+\begin{tabular}[t]{|c|c|c|c|c|}
+\hline
+Gene 1 & Gene 2 & $\rho_{G1}$ & $\rho_{G2M}$ & $\rho_{G1}-\rho_{G2M}$\\
+\hline
+KIF20B & CINP & \textcolor[HTML]{58C765}{\textbf{0.4516}} & \textcolor[HTML]{2A778E}{\textbf{-0.0832}} & \textcolor[HTML]{76D054}{\textbf{0.5349}}\\
+\hline
+TIPIN & CINP & \textcolor[HTML]{46C06F}{\textbf{0.3992}} & \textcolor[HTML]{2C738E}{\textbf{-0.1094}} & \textcolor[HTML]{6CCD5A}{\textbf{0.5085}}\\
+\hline
+BUB3 & CINP & \textcolor[HTML]{46C06F}{\textbf{0.3991}} & \textcolor[HTML]{2B748E}{\textbf{-0.1002}} & \textcolor[HTML]{67CC5C}{\textbf{0.4992}}\\
+\hline
+SON & CINP & \textcolor[HTML]{40BD72}{\textbf{0.3793}} & \textcolor[HTML]{2C718E}{\textbf{-0.1186}} & \textcolor[HTML]{67CC5C}{\textbf{0.4979}}\\
+\hline
+CKS2 & CINP & \textcolor[HTML]{40BD72}{\textbf{0.3827}} & \textcolor[HTML]{2C728E}{\textbf{-0.1131}} & \textcolor[HTML]{67CC5C}{\textbf{0.4958}}\\
+\hline
+NASP & CINP & \textcolor[HTML]{3FBC73}{\textbf{0.3767}} & \textcolor[HTML]{2C718E}{\textbf{-0.1174}} & \textcolor[HTML]{66CB5D}{\textbf{0.4941}}\\
+\hline
+RUVBL1 & CINP & \textcolor[HTML]{37B878}{\textbf{0.3439}} & \textcolor[HTML]{2E6D8E}{\textbf{-0.1485}} & \textcolor[HTML]{66CB5D}{\textbf{0.4924}}\\
+\hline
+CINP & SPC25 & \textcolor[HTML]{3CBC74}{\textbf{0.3673}} & \textcolor[HTML]{2D718E}{\textbf{-0.1247}} & \textcolor[HTML]{66CB5D}{\textbf{0.492}}\\
+\hline
+CINP & CCNE1 & \textcolor[HTML]{46C06F}{\textbf{0.3996}} & \textcolor[HTML]{2A768E}{\textbf{-0.0912}} & \textcolor[HTML]{66CB5D}{\textbf{0.4908}}\\
+\hline
+CINP & SMARCB1 & \textcolor[HTML]{58C765}{\textbf{0.4548}} & \textcolor[HTML]{277F8E}{\textbf{-0.0338}} & \textcolor[HTML]{64CB5F}{\textbf{0.4885}}\\
+\hline
+ESCO2 & CINP & \textcolor[HTML]{40BD72}{\textbf{0.3814}} & \textcolor[HTML]{2C738E}{\textbf{-0.1062}} & \textcolor[HTML]{64CB5F}{\textbf{0.4876}}\\
+\hline
+SPIN1 & CINP & \textcolor[HTML]{44BF70}{\textbf{0.3908}} & \textcolor[HTML]{2B758E}{\textbf{-0.096}} & \textcolor[HTML]{64CB5F}{\textbf{0.4869}}\\
+\hline
+USP9X & CINP & \textcolor[HTML]{48C16E}{\textbf{0.4047}} & \textcolor[HTML]{2A788E}{\textbf{-0.0798}} & \textcolor[HTML]{64CB5F}{\textbf{0.4845}}\\
+\hline
+RCC2 & CINP & \textcolor[HTML]{42BE71}{\textbf{0.389}} & \textcolor[HTML]{2B758E}{\textbf{-0.0952}} & \textcolor[HTML]{64CB5F}{\textbf{0.4842}}\\
+\hline
+UPF1 & CINP & \textcolor[HTML]{3ABA76}{\textbf{0.353}} & \textcolor[HTML]{2D718E}{\textbf{-0.1311}} & \textcolor[HTML]{64CB5F}{\textbf{0.4841}}\\
+\hline
+CINP & DBF4 & \textcolor[HTML]{38B977}{\textbf{0.3502}} & \textcolor[HTML]{2D708E}{\textbf{-0.1331}} & \textcolor[HTML]{64CB5F}{\textbf{0.4833}}\\
+\hline
+CINP & CDK1 & \textcolor[HTML]{48C16E}{\textbf{0.4059}} & \textcolor[HTML]{29798E}{\textbf{-0.0759}} & \textcolor[HTML]{62CB5F}{\textbf{0.4818}}\\
+\hline
+WTAP & CINP & \textcolor[HTML]{40BD72}{\textbf{0.3834}} & \textcolor[HTML]{2A768E}{\textbf{-0.0931}} & \textcolor[HTML]{5FCA61}{\textbf{0.4765}}\\
+\hline
+LIG1 & CINP & \textcolor[HTML]{42BE71}{\textbf{0.3865}} & \textcolor[HTML]{2A778E}{\textbf{-0.0864}} & \textcolor[HTML]{5FCA61}{\textbf{0.4729}}\\
+\hline
+MCM4 & CINP & \textcolor[HTML]{42BE71}{\textbf{0.3894}} & \textcolor[HTML]{2A778E}{\textbf{-0.0826}} & \textcolor[HTML]{5DC962}{\textbf{0.472}}\\
+\hline
+CINP & CCAR1 & \textcolor[HTML]{3CBC74}{\textbf{0.3655}} & \textcolor[HTML]{2C738E}{\textbf{-0.1052}} & \textcolor[HTML]{5DC962}{\textbf{0.4707}}\\
+\hline
+CINP & UHRF1 & \textcolor[HTML]{42BE71}{\textbf{0.3891}} & \textcolor[HTML]{2A788E}{\textbf{-0.0809}} & \textcolor[HTML]{5DC962}{\textbf{0.47}}\\
+\hline
+CENPW & CINP & \textcolor[HTML]{3BBB75}{\textbf{0.3579}} & \textcolor[HTML]{2C728E}{\textbf{-0.1119}} & \textcolor[HTML]{5DC962}{\textbf{0.4698}}\\
+\hline
+SMC2 & CINP & \textcolor[HTML]{3FBC73}{\textbf{0.3774}} & \textcolor[HTML]{2A768E}{\textbf{-0.0921}} & \textcolor[HTML]{5DC962}{\textbf{0.4695}}\\
+\hline
+CINP & FBXO5 & \textcolor[HTML]{3CBC74}{\textbf{0.363}} & \textcolor[HTML]{2C738E}{\textbf{-0.1049}} & \textcolor[HTML]{5DC962}{\textbf{0.468}}\\
+\hline
+\end{tabular}
+\end{table}

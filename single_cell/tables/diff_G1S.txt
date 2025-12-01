@@ -1,0 +1,208 @@
+\begin{table}
+\centering
+\begin{tabular}[t]{|c|c|c|c|c|c|c|}
+\hline
+ID 1 & Assoc. gene 1 & ID 2 & Assoc. gene 2 & $\rho_{G1}$ & $\rho_{S}$ & $\rho_{G1}-\rho_{S}$\\
+\hline
+ENSMUSG00000017146 & BRCA1 & ENSMUSG00000006715 & GMNN & \textcolor[HTML]{5FCA61}{\textbf{0.4744}} & \textcolor[HTML]{2E6E8E}{\textbf{-0.1446}} & \textcolor[HTML]{98D83E}{\textbf{0.619}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000005410 & MCM5 & \textcolor[HTML]{3CBC74}{\textbf{0.3668}} & \textcolor[HTML]{365D8D}{\textbf{-0.2473}} & \textcolor[HTML]{95D840}{\textbf{0.6141}}\\
+\hline
+ENSMUSG00000020326 & CCNG1 & ENSMUSG00000017146 & BRCA1 & \textcolor[HTML]{5DC962}{\textbf{0.4694}} & \textcolor[HTML]{2E6E8E}{\textbf{-0.1434}} & \textcolor[HTML]{95D840}{\textbf{0.6128}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000001228 & UHRF1 & \textcolor[HTML]{56C667}{\textbf{0.4473}} & \textcolor[HTML]{306A8E}{\textbf{-0.1655}} & \textcolor[HTML]{95D840}{\textbf{0.6128}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000020326 & CCNG1 & \textcolor[HTML]{54C568}{\textbf{0.4442}} & \textcolor[HTML]{306A8E}{\textbf{-0.1671}} & \textcolor[HTML]{95D840}{\textbf{0.6112}}\\
+\hline
+ENSMUSG00000017146 & BRCA1 & ENSMUSG00000001228 & UHRF1 & \textcolor[HTML]{64CB5F}{\textbf{0.4856}} & \textcolor[HTML]{2C718E}{\textbf{-0.1194}} & \textcolor[HTML]{93D741}{\textbf{0.6049}}\\
+\hline
+ENSMUSG00000020326 & CCNG1 & ENSMUSG00000020107 & ANAPC16 & \textcolor[HTML]{64CB5F}{\textbf{0.4838}} & \textcolor[HTML]{2C728E}{\textbf{-0.1149}} & \textcolor[HTML]{91D742}{\textbf{0.5988}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000036438 & CALM2 & \textcolor[HTML]{54C568}{\textbf{0.4431}} & \textcolor[HTML]{2F6C8E}{\textbf{-0.1543}} & \textcolor[HTML]{8FD644}{\textbf{0.5973}}\\
+\hline
+ENSMUSG00000025616 & USP16 & ENSMUSG00000006715 & GMNN & \textcolor[HTML]{4AC16D}{\textbf{0.4102}} & \textcolor[HTML]{31688E}{\textbf{-0.1866}} & \textcolor[HTML]{8FD644}{\textbf{0.5967}}\\
+\hline
+ENSMUSG00000039130 & ZC3HC1 & ENSMUSG00000032218 & CCNB2 & \textcolor[HTML]{74D055}{\textbf{0.5273}} & \textcolor[HTML]{29798E}{\textbf{-0.0691}} & \textcolor[HTML]{8FD644}{\textbf{0.5963}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000006728 & CDK4 & \textcolor[HTML]{5AC864}{\textbf{0.4571}} & \textcolor[HTML]{2E6F8E}{\textbf{-0.1381}} & \textcolor[HTML]{8FD644}{\textbf{0.5952}}\\
+\hline
+ENSMUSG00000020326 & CCNG1 & ENSMUSG00000018821 & AVPI1 & \textcolor[HTML]{51C46A}{\textbf{0.4303}} & \textcolor[HTML]{2F6B8E}{\textbf{-0.1645}} & \textcolor[HTML]{8FD644}{\textbf{0.5948}}\\
+\hline
+ENSMUSG00000021103 & MNAT1 & ENSMUSG00000006715 & GMNN & \textcolor[HTML]{40BD72}{\textbf{0.382}} & \textcolor[HTML]{33638D}{\textbf{-0.2113}} & \textcolor[HTML]{8FD644}{\textbf{0.5933}}\\
+\hline
+ENSMUSG00000020107 & ANAPC16 & ENSMUSG00000001228 & UHRF1 & \textcolor[HTML]{5CC863}{\textbf{0.4639}} & \textcolor[HTML]{2D718E}{\textbf{-0.1292}} & \textcolor[HTML]{8FD644}{\textbf{0.5931}}\\
+\hline
+ENSMUSG00000018821 & AVPI1 & ENSMUSG00000005410 & MCM5 & \textcolor[HTML]{3CBC74}{\textbf{0.3632}} & \textcolor[HTML]{34608D}{\textbf{-0.2282}} & \textcolor[HTML]{8DD645}{\textbf{0.5914}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000001175 & CALM1 & \textcolor[HTML]{53C569}{\textbf{0.4354}} & \textcolor[HTML]{2F6C8E}{\textbf{-0.1556}} & \textcolor[HTML]{8DD645}{\textbf{0.591}}\\
+\hline
+ENSMUSG00000017146 & BRCA1 & ENSMUSG00000001175 & CALM1 & \textcolor[HTML]{5AC864}{\textbf{0.4579}} & \textcolor[HTML]{2D708E}{\textbf{-0.1329}} & \textcolor[HTML]{8DD645}{\textbf{0.5908}}\\
+\hline
+ENSMUSG00000036438 & CALM2 & ENSMUSG00000017146 & BRCA1 & \textcolor[HTML]{5CC863}{\textbf{0.4663}} & \textcolor[HTML]{2D718E}{\textbf{-0.123}} & \textcolor[HTML]{8DD645}{\textbf{0.5893}}\\
+\hline
+ENSMUSG00000029910 & MAD2L1 & ENSMUSG00000017146 & BRCA1 & \textcolor[HTML]{62CB5F}{\textbf{0.483}} & \textcolor[HTML]{2C738E}{\textbf{-0.1055}} & \textcolor[HTML]{8DD645}{\textbf{0.5885}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000028044 & CKS1B & \textcolor[HTML]{54C568}{\textbf{0.4425}} & \textcolor[HTML]{2E6E8E}{\textbf{-0.1455}} & \textcolor[HTML]{8DD645}{\textbf{0.588}}\\
+\hline
+ENSMUSG00000028678 & KIF2C & ENSMUSG00000005410 & MCM5 & \textcolor[HTML]{3EBC73}{\textbf{0.3696}} & \textcolor[HTML]{33628D}{\textbf{-0.2169}} & \textcolor[HTML]{8AD647}{\textbf{0.5865}}\\
+\hline
+ENSMUSG00000029501 & ANKLE2 & ENSMUSG00000001228 & UHRF1 & \textcolor[HTML]{67CC5C}{\textbf{0.4986}} & \textcolor[HTML]{2A778E}{\textbf{-0.0872}} & \textcolor[HTML]{8AD647}{\textbf{0.5858}}\\
+\hline
+ENSMUSG00000021103 & MNAT1 & ENSMUSG00000020326 & CCNG1 & \textcolor[HTML]{3EBC73}{\textbf{0.3731}} & \textcolor[HTML]{33638D}{\textbf{-0.2121}} & \textcolor[HTML]{8AD647}{\textbf{0.5852}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000032397 & TIPIN & \textcolor[HTML]{5AC864}{\textbf{0.4597}} & \textcolor[HTML]{2D718E}{\textbf{-0.1247}} & \textcolor[HTML]{8AD647}{\textbf{0.5844}}\\
+\hline
+ENSMUSG00000060475 & WTAP & ENSMUSG00000017146 & BRCA1 & \textcolor[HTML]{5DC962}{\textbf{0.468}} & \textcolor[HTML]{2C718E}{\textbf{-0.1157}} & \textcolor[HTML]{8AD647}{\textbf{0.5837}}\\
+\hline
+ENSMUSG00000017146 & BRCA1 & ENSMUSG00000006728 & CDK4 & \textcolor[HTML]{5DC962}{\textbf{0.4682}} & \textcolor[HTML]{2C718E}{\textbf{-0.1154}} & \textcolor[HTML]{8AD647}{\textbf{0.5836}}\\
+\hline
+ENSMUSG00000060475 & WTAP & ENSMUSG00000039128 & CDC123 & \textcolor[HTML]{54C568}{\textbf{0.4424}} & \textcolor[HTML]{2E6F8E}{\textbf{-0.1406}} & \textcolor[HTML]{8AD647}{\textbf{0.583}}\\
+\hline
+ENSMUSG00000029003 & MAD2L2 & ENSMUSG00000005410 & MCM5 & \textcolor[HTML]{44BF70}{\textbf{0.3946}} & \textcolor[HTML]{31678E}{\textbf{-0.1871}} & \textcolor[HTML]{88D548}{\textbf{0.5817}}\\
+\hline
+ENSMUSG00000018821 & AVPI1 & ENSMUSG00000006715 & GMNN & \textcolor[HTML]{51C46A}{\textbf{0.4308}} & \textcolor[HTML]{2E6D8E}{\textbf{-0.1508}} & \textcolor[HTML]{88D548}{\textbf{0.5816}}\\
+\hline
+ENSMUSG00000031347 & CETN2 & ENSMUSG00000006715 & GMNN & \textcolor[HTML]{48C16E}{\textbf{0.4046}} & \textcolor[HTML]{30688E}{\textbf{-0.1771}} & \textcolor[HTML]{88D548}{\textbf{0.5816}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000024073 & BIRC6 & \textcolor[HTML]{44BF70}{\textbf{0.391}} & \textcolor[HTML]{31678E}{\textbf{-0.1897}} & \textcolor[HTML]{88D548}{\textbf{0.5807}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000028312 & SMC2 & \textcolor[HTML]{51C46A}{\textbf{0.4322}} & \textcolor[HTML]{2E6E8E}{\textbf{-0.1481}} & \textcolor[HTML]{88D548}{\textbf{0.5802}}\\
+\hline
+ENSMUSG00000018821 & AVPI1 & ENSMUSG00000001175 & CALM1 & \textcolor[HTML]{4FC36A}{\textbf{0.4244}} & \textcolor[HTML]{2F6C8E}{\textbf{-0.1555}} & \textcolor[HTML]{88D548}{\textbf{0.5799}}\\
+\hline
+ENSMUSG00000025616 & USP16 & ENSMUSG00000020326 & CCNG1 & \textcolor[HTML]{4AC16D}{\textbf{0.4091}} & \textcolor[HTML]{30698E}{\textbf{-0.1708}} & \textcolor[HTML]{88D548}{\textbf{0.5799}}\\
+\hline
+ENSMUSG00000075266 & CENPW & ENSMUSG00000006715 & GMNN & \textcolor[HTML]{67CC5C}{\textbf{0.4969}} & \textcolor[HTML]{2A778E}{\textbf{-0.0828}} & \textcolor[HTML]{88D548}{\textbf{0.5797}}\\
+\hline
+ENSMUSG00000032397 & TIPIN & ENSMUSG00000017146 & BRCA1 & \textcolor[HTML]{66CB5D}{\textbf{0.4933}} & \textcolor[HTML]{2A778E}{\textbf{-0.0863}} & \textcolor[HTML]{88D548}{\textbf{0.5796}}\\
+\hline
+ENSMUSG00000028044 & CKS1B & ENSMUSG00000017146 & BRCA1 & \textcolor[HTML]{5CC863}{\textbf{0.4641}} & \textcolor[HTML]{2C728E}{\textbf{-0.1152}} & \textcolor[HTML]{88D548}{\textbf{0.5793}}\\
+\hline
+ENSMUSG00000020107 & ANAPC16 & ENSMUSG00000005410 & MCM5 & \textcolor[HTML]{42BE71}{\textbf{0.3872}} & \textcolor[HTML]{31678E}{\textbf{-0.1918}} & \textcolor[HTML]{88D548}{\textbf{0.579}}\\
+\hline
+ENSMUSG00000021103 & MNAT1 & ENSMUSG00000005410 & MCM5 & \textcolor[HTML]{2EB47C}{\textbf{0.3078}} & \textcolor[HTML]{38598C}{\textbf{-0.2702}} & \textcolor[HTML]{88D548}{\textbf{0.5781}}\\
+\hline
+ENSMUSG00000036438 & CALM2 & ENSMUSG00000018821 & AVPI1 & \textcolor[HTML]{51C46A}{\textbf{0.4334}} & \textcolor[HTML]{2E6E8E}{\textbf{-0.1446}} & \textcolor[HTML]{88D548}{\textbf{0.578}}\\
+\hline
+ENSMUSG00000017146 & BRCA1 & ENSMUSG00000005410 & MCM5 & \textcolor[HTML]{42BE71}{\textbf{0.3855}} & \textcolor[HTML]{31668E}{\textbf{-0.1924}} & \textcolor[HTML]{88D548}{\textbf{0.5779}}\\
+\hline
+ENSMUSG00000032397 & TIPIN & ENSMUSG00000020107 & ANAPC16 & \textcolor[HTML]{62CB5F}{\textbf{0.4818}} & \textcolor[HTML]{2B758E}{\textbf{-0.0954}} & \textcolor[HTML]{88D548}{\textbf{0.5772}}\\
+\hline
+ENSMUSG00000018821 & AVPI1 & ENSMUSG00000001228 & UHRF1 & \textcolor[HTML]{51C46A}{\textbf{0.4323}} & \textcolor[HTML]{2E6E8E}{\textbf{-0.1434}} & \textcolor[HTML]{86D549}{\textbf{0.5757}}\\
+\hline
+ENSMUSG00000023067 & CDKN1A & ENSMUSG00000020107 & ANAPC16 & \textcolor[HTML]{66CB5D}{\textbf{0.4892}} & \textcolor[HTML]{2A778E}{\textbf{-0.0866}} & \textcolor[HTML]{86D549}{\textbf{0.5757}}\\
+\hline
+ENSMUSG00000028312 & SMC2 & ENSMUSG00000017146 & BRCA1 & \textcolor[HTML]{58C765}{\textbf{0.4541}} & \textcolor[HTML]{2C718E}{\textbf{-0.1188}} & \textcolor[HTML]{86D549}{\textbf{0.5729}}\\
+\hline
+ENSMUSG00000021103 & MNAT1 & ENSMUSG00000001175 & CALM1 & \textcolor[HTML]{3FBC73}{\textbf{0.3746}} & \textcolor[HTML]{31668E}{\textbf{-0.1956}} & \textcolor[HTML]{84D44B}{\textbf{0.5702}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000004451 & RALB & \textcolor[HTML]{51C46A}{\textbf{0.43}} & \textcolor[HTML]{2E6F8E}{\textbf{-0.1402}} & \textcolor[HTML]{84D44B}{\textbf{0.5702}}\\
+\hline
+ENSMUSG00000036438 & CALM2 & ENSMUSG00000020107 & ANAPC16 & \textcolor[HTML]{5AC864}{\textbf{0.4593}} & \textcolor[HTML]{2C728E}{\textbf{-0.1106}} & \textcolor[HTML]{84D44B}{\textbf{0.57}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000024576 & CSNK1A1 & \textcolor[HTML]{58C765}{\textbf{0.4523}} & \textcolor[HTML]{2C718E}{\textbf{-0.1175}} & \textcolor[HTML]{84D44B}{\textbf{0.5698}}\\
+\hline
+ENSMUSG00000036438 & CALM2 & ENSMUSG00000021103 & MNAT1 & \textcolor[HTML]{40BD72}{\textbf{0.3824}} & \textcolor[HTML]{31688E}{\textbf{-0.1863}} & \textcolor[HTML]{84D44B}{\textbf{0.5687}}\\
+\hline
+ENSMUSG00000060475 & WTAP & ENSMUSG00000018821 & AVPI1 & \textcolor[HTML]{51C46A}{\textbf{0.4331}} & \textcolor[HTML]{2D708E}{\textbf{-0.1345}} & \textcolor[HTML]{84D44B}{\textbf{0.5676}}\\
+\hline
+ENSMUSG00000018821 & AVPI1 & ENSMUSG00000006728 & CDK4 & \textcolor[HTML]{51C46A}{\textbf{0.4318}} & \textcolor[HTML]{2D708E}{\textbf{-0.1335}} & \textcolor[HTML]{81D34D}{\textbf{0.5653}}\\
+\hline
+ENSMUSG00000032218 & CCNB2 & ENSMUSG00000020107 & ANAPC16 & \textcolor[HTML]{5FCA61}{\textbf{0.4741}} & \textcolor[HTML]{2A768E}{\textbf{-0.0911}} & \textcolor[HTML]{81D34D}{\textbf{0.5651}}\\
+\hline
+ENSMUSG00000028044 & CKS1B & ENSMUSG00000020107 & ANAPC16 & \textcolor[HTML]{5AC864}{\textbf{0.4602}} & \textcolor[HTML]{2C738E}{\textbf{-0.1047}} & \textcolor[HTML]{81D34D}{\textbf{0.5648}}\\
+\hline
+ENSMUSG00000028678 & KIF2C & ENSMUSG00000006715 & GMNN & \textcolor[HTML]{3FBC73}{\textbf{0.3768}} & \textcolor[HTML]{31678E}{\textbf{-0.1878}} & \textcolor[HTML]{81D34D}{\textbf{0.5646}}\\
+\hline
+ENSMUSG00000024576 & CSNK1A1 & ENSMUSG00000017146 & BRCA1 & \textcolor[HTML]{5FCA61}{\textbf{0.4769}} & \textcolor[HTML]{2A778E}{\textbf{-0.0875}} & \textcolor[HTML]{81D34D}{\textbf{0.5645}}\\
+\hline
+ENSMUSG00000028044 & CKS1B & ENSMUSG00000018821 & AVPI1 & \textcolor[HTML]{51C46A}{\textbf{0.4286}} & \textcolor[HTML]{2D708E}{\textbf{-0.1358}} & \textcolor[HTML]{81D34D}{\textbf{0.5645}}\\
+\hline
+ENSMUSG00000020107 & ANAPC16 & ENSMUSG00000007815 & RHOA & \textcolor[HTML]{62CB5F}{\textbf{0.482}} & \textcolor[HTML]{2A778E}{\textbf{-0.0824}} & \textcolor[HTML]{81D34D}{\textbf{0.5644}}\\
+\hline
+ENSMUSG00000020107 & ANAPC16 & ENSMUSG00000004451 & RALB & \textcolor[HTML]{58C765}{\textbf{0.4549}} & \textcolor[HTML]{2C738E}{\textbf{-0.1092}} & \textcolor[HTML]{81D34D}{\textbf{0.5641}}\\
+\hline
+ENSMUSG00000021103 & MNAT1 & ENSMUSG00000006728 & CDK4 & \textcolor[HTML]{42BE71}{\textbf{0.3871}} & \textcolor[HTML]{30688E}{\textbf{-0.1765}} & \textcolor[HTML]{81D34D}{\textbf{0.5636}}\\
+\hline
+ENSMUSG00000017146 & BRCA1 & ENSMUSG00000011114 & TBRG1 & \textcolor[HTML]{54C568}{\textbf{0.4413}} & \textcolor[HTML]{2D718E}{\textbf{-0.1215}} & \textcolor[HTML]{81D34D}{\textbf{0.5627}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000023067 & CDKN1A & \textcolor[HTML]{58C765}{\textbf{0.4508}} & \textcolor[HTML]{2C728E}{\textbf{-0.1116}} & \textcolor[HTML]{81D34D}{\textbf{0.5625}}\\
+\hline
+ENSMUSG00000028312 & SMC2 & ENSMUSG00000018821 & AVPI1 & \textcolor[HTML]{4FC36A}{\textbf{0.4241}} & \textcolor[HTML]{2E6F8E}{\textbf{-0.1377}} & \textcolor[HTML]{81D34D}{\textbf{0.5619}}\\
+\hline
+ENSMUSG00000024576 & CSNK1A1 & ENSMUSG00000020107 & ANAPC16 & \textcolor[HTML]{5FCA61}{\textbf{0.4761}} & \textcolor[HTML]{2A778E}{\textbf{-0.0855}} & \textcolor[HTML]{81D34D}{\textbf{0.5616}}\\
+\hline
+ENSMUSG00000075266 & CENPW & ENSMUSG00000036438 & CALM2 & \textcolor[HTML]{69CD5B}{\textbf{0.5025}} & \textcolor[HTML]{297B8E}{\textbf{-0.0591}} & \textcolor[HTML]{81D34D}{\textbf{0.5616}}\\
+\hline
+ENSMUSG00000021103 & MNAT1 & ENSMUSG00000001228 & UHRF1 & \textcolor[HTML]{40BD72}{\textbf{0.3816}} & \textcolor[HTML]{30688E}{\textbf{-0.1797}} & \textcolor[HTML]{81D34D}{\textbf{0.5614}}\\
+\hline
+ENSMUSG00000042506 & USP22 & ENSMUSG00000001228 & UHRF1 & \textcolor[HTML]{76D054}{\textbf{0.5352}} & \textcolor[HTML]{26818E}{\textbf{-0.026}} & \textcolor[HTML]{81D34D}{\textbf{0.5612}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000011114 & TBRG1 & \textcolor[HTML]{4DC36B}{\textbf{0.4206}} & \textcolor[HTML]{2E6F8E}{\textbf{-0.1405}} & \textcolor[HTML]{81D34D}{\textbf{0.5611}}\\
+\hline
+ENSMUSG00000029516 & CIT & ENSMUSG00000001228 & UHRF1 & \textcolor[HTML]{56C667}{\textbf{0.4477}} & \textcolor[HTML]{2C728E}{\textbf{-0.1131}} & \textcolor[HTML]{81D34D}{\textbf{0.5608}}\\
+\hline
+ENSMUSG00000075266 & CENPW & ENSMUSG00000001175 & CALM1 & \textcolor[HTML]{66CB5D}{\textbf{0.4901}} & \textcolor[HTML]{29798E}{\textbf{-0.0702}} & \textcolor[HTML]{81D34D}{\textbf{0.5604}}\\
+\hline
+ENSMUSG00000023067 & CDKN1A & ENSMUSG00000017146 & BRCA1 & \textcolor[HTML]{62CB5F}{\textbf{0.4805}} & \textcolor[HTML]{2A788E}{\textbf{-0.0787}} & \textcolor[HTML]{7FD34E}{\textbf{0.5592}}\\
+\hline
+ENSMUSG00000060475 & WTAP & ENSMUSG00000020107 & ANAPC16 & \textcolor[HTML]{5AC864}{\textbf{0.461}} & \textcolor[HTML]{2B758E}{\textbf{-0.0979}} & \textcolor[HTML]{7FD34E}{\textbf{0.5589}}\\
+\hline
+ENSMUSG00000028044 & CKS1B & ENSMUSG00000021103 & MNAT1 & \textcolor[HTML]{40BD72}{\textbf{0.3838}} & \textcolor[HTML]{30698E}{\textbf{-0.175}} & \textcolor[HTML]{7FD34E}{\textbf{0.5588}}\\
+\hline
+ENSMUSG00000071533 & PCNP & ENSMUSG00000042506 & USP22 & \textcolor[HTML]{84D44B}{\textbf{0.5677}} & \textcolor[HTML]{25858E}{\textbf{0.0096}} & \textcolor[HTML]{7FD34E}{\textbf{0.5581}}\\
+\hline
+ENSMUSG00000025616 & USP16 & ENSMUSG00000001175 & CALM1 & \textcolor[HTML]{46C06F}{\textbf{0.3995}} & \textcolor[HTML]{2F6C8E}{\textbf{-0.158}} & \textcolor[HTML]{7FD34E}{\textbf{0.5574}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000007815 & RHOA & \textcolor[HTML]{53C569}{\textbf{0.434}} & \textcolor[HTML]{2D718E}{\textbf{-0.1233}} & \textcolor[HTML]{7FD34E}{\textbf{0.5573}}\\
+\hline
+ENSMUSG00000020107 & ANAPC16 & ENSMUSG00000006728 & CDK4 & \textcolor[HTML]{5CC863}{\textbf{0.4623}} & \textcolor[HTML]{2B758E}{\textbf{-0.0943}} & \textcolor[HTML]{7FD34E}{\textbf{0.5567}}\\
+\hline
+ENSMUSG00000029516 & CIT & ENSMUSG00000004451 & RALB & \textcolor[HTML]{5AC864}{\textbf{0.4572}} & \textcolor[HTML]{2B748E}{\textbf{-0.0994}} & \textcolor[HTML]{7FD34E}{\textbf{0.5566}}\\
+\hline
+ENSMUSG00000036438 & CALM2 & ENSMUSG00000025616 & USP16 & \textcolor[HTML]{4AC16D}{\textbf{0.4087}} & \textcolor[HTML]{2E6E8E}{\textbf{-0.1479}} & \textcolor[HTML]{7FD34E}{\textbf{0.5566}}\\
+\hline
+ENSMUSG00000060475 & WTAP & ENSMUSG00000021103 & MNAT1 & \textcolor[HTML]{40BD72}{\textbf{0.3806}} & \textcolor[HTML]{30688E}{\textbf{-0.176}} & \textcolor[HTML]{7FD34E}{\textbf{0.5566}}\\
+\hline
+ENSMUSG00000017146 & BRCA1 & ENSMUSG00000007815 & RHOA & \textcolor[HTML]{58C765}{\textbf{0.4506}} & \textcolor[HTML]{2C738E}{\textbf{-0.1055}} & \textcolor[HTML]{7FD34E}{\textbf{0.5561}}\\
+\hline
+ENSMUSG00000020107 & ANAPC16 & ENSMUSG00000001175 & CALM1 & \textcolor[HTML]{56C667}{\textbf{0.4489}} & \textcolor[HTML]{2C738E}{\textbf{-0.107}} & \textcolor[HTML]{7FD34E}{\textbf{0.5559}}\\
+\hline
+ENSMUSG00000028312 & SMC2 & ENSMUSG00000021103 & MNAT1 & \textcolor[HTML]{3EBC73}{\textbf{0.3726}} & \textcolor[HTML]{31688E}{\textbf{-0.1832}} & \textcolor[HTML]{7FD34E}{\textbf{0.5558}}\\
+\hline
+ENSMUSG00000075266 & CENPW & ENSMUSG00000001228 & UHRF1 & \textcolor[HTML]{67CC5C}{\textbf{0.4989}} & \textcolor[HTML]{297B8E}{\textbf{-0.0567}} & \textcolor[HTML]{7FD34E}{\textbf{0.5556}}\\
+\hline
+ENSMUSG00000018821 & AVPI1 & ENSMUSG00000011114 & TBRG1 & \textcolor[HTML]{4BC26C}{\textbf{0.4139}} & \textcolor[HTML]{2E6F8E}{\textbf{-0.1413}} & \textcolor[HTML]{7FD34E}{\textbf{0.5552}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000032218 & CCNB2 & \textcolor[HTML]{51C46A}{\textbf{0.4333}} & \textcolor[HTML]{2D718E}{\textbf{-0.1219}} & \textcolor[HTML]{7FD34E}{\textbf{0.5552}}\\
+\hline
+ENSMUSG00000075266 & CENPW & ENSMUSG00000032397 & TIPIN & \textcolor[HTML]{72D056}{\textbf{0.5261}} & \textcolor[HTML]{27808E}{\textbf{-0.029}} & \textcolor[HTML]{7FD34E}{\textbf{0.555}}\\
+\hline
+ENSMUSG00000029501 & ANKLE2 & ENSMUSG00000004451 & RALB & \textcolor[HTML]{62CB5F}{\textbf{0.4812}} & \textcolor[HTML]{29798E}{\textbf{-0.0736}} & \textcolor[HTML]{7FD34E}{\textbf{0.5548}}\\
+\hline
+ENSMUSG00000032397 & TIPIN & ENSMUSG00000029501 & ANKLE2 & \textcolor[HTML]{67CC5C}{\textbf{0.499}} & \textcolor[HTML]{297B8E}{\textbf{-0.0557}} & \textcolor[HTML]{7FD34E}{\textbf{0.5547}}\\
+\hline
+ENSMUSG00000060475 & WTAP & ENSMUSG00000029501 & ANKLE2 & \textcolor[HTML]{70CF57}{\textbf{0.5171}} & \textcolor[HTML]{277F8E}{\textbf{-0.0374}} & \textcolor[HTML]{7DD250}{\textbf{0.5545}}\\
+\hline
+ENSMUSG00000028312 & SMC2 & ENSMUSG00000020107 & ANAPC16 & \textcolor[HTML]{56C667}{\textbf{0.449}} & \textcolor[HTML]{2C738E}{\textbf{-0.1046}} & \textcolor[HTML]{7DD250}{\textbf{0.5537}}\\
+\hline
+ENSMUSG00000024073 & BIRC6 & ENSMUSG00000020107 & ANAPC16 & \textcolor[HTML]{48C16E}{\textbf{0.405}} & \textcolor[HTML]{2E6D8E}{\textbf{-0.1486}} & \textcolor[HTML]{7DD250}{\textbf{0.5536}}\\
+\hline
+ENSMUSG00000039128 & CDC123 & ENSMUSG00000001833 & SEP-07 & \textcolor[HTML]{46C06F}{\textbf{0.3962}} & \textcolor[HTML]{2F6C8E}{\textbf{-0.1569}} & \textcolor[HTML]{7DD250}{\textbf{0.5531}}\\
+\hline
+ENSMUSG00000031010 & USP9X & ENSMUSG00000017146 & BRCA1 & \textcolor[HTML]{5FCA61}{\textbf{0.4755}} & \textcolor[HTML]{2A788E}{\textbf{-0.0769}} & \textcolor[HTML]{7DD250}{\textbf{0.5524}}\\
+\hline
+ENSMUSG00000017146 & BRCA1 & ENSMUSG00000004451 & RALB & \textcolor[HTML]{56C667}{\textbf{0.4488}} & \textcolor[HTML]{2B748E}{\textbf{-0.1032}} & \textcolor[HTML]{7DD250}{\textbf{0.5521}}\\
+\hline
+ENSMUSG00000025616 & USP16 & ENSMUSG00000007815 & RHOA & \textcolor[HTML]{4DC36B}{\textbf{0.4225}} & \textcolor[HTML]{2D718E}{\textbf{-0.129}} & \textcolor[HTML]{7DD250}{\textbf{0.5515}}\\
+\hline
+ENSMUSG00000029516 & CIT & ENSMUSG00000005410 & MCM5 & \textcolor[HTML]{3CBC74}{\textbf{0.3624}} & \textcolor[HTML]{31678E}{\textbf{-0.1885}} & \textcolor[HTML]{7DD250}{\textbf{0.551}}\\
+\hline
+ENSMUSG00000042506 & USP22 & ENSMUSG00000036438 & CALM2 & \textcolor[HTML]{78D152}{\textbf{0.541}} & \textcolor[HTML]{26828E}{\textbf{-0.0099}} & \textcolor[HTML]{7DD250}{\textbf{0.551}}\\
+\hline
+ENSMUSG00000032397 & TIPIN & ENSMUSG00000018821 & AVPI1 & \textcolor[HTML]{56C667}{\textbf{0.4483}} & \textcolor[HTML]{2B748E}{\textbf{-0.1017}} & \textcolor[HTML]{7DD250}{\textbf{0.5501}}\\
+\hline
+ENSMUSG00000029516 & CIT & ENSMUSG00000020326 & CCNG1 & \textcolor[HTML]{54C568}{\textbf{0.444}} & \textcolor[HTML]{2C738E}{\textbf{-0.1059}} & \textcolor[HTML]{7DD250}{\textbf{0.5499}}\\
+\hline
+\end{tabular}
+\end{table}

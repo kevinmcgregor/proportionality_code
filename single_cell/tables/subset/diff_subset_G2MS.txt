@@ -1,0 +1,58 @@
+\begin{table}
+\centering
+\begin{tabular}[t]{|c|c|c|c|c|}
+\hline
+Gene 1 & Gene 2 & $\rho_{G2M}$ & $\rho_{S}$ & $\rho_{G2M}-\rho_{S}$\\
+\hline
+BUB1B & MCM5 & \textcolor[HTML]{4AC16D}{\textbf{0.4092}} & \textcolor[HTML]{355E8D}{\textbf{-0.2444}} & \textcolor[HTML]{A9DB33}{\textbf{0.6536}}\\
+\hline
+MNAT1 & MCM5 & \textcolor[HTML]{40BD72}{\textbf{0.3828}} & \textcolor[HTML]{38598C}{\textbf{-0.2702}} & \textcolor[HTML]{A6DB35}{\textbf{0.653}}\\
+\hline
+CENPW & MCM5 & \textcolor[HTML]{78D152}{\textbf{0.5394}} & \textcolor[HTML]{2B748E}{\textbf{-0.1034}} & \textcolor[HTML]{A3DA37}{\textbf{0.6427}}\\
+\hline
+ANAPC1 & MCM5 & \textcolor[HTML]{4FC36A}{\textbf{0.4265}} & \textcolor[HTML]{33628D}{\textbf{-0.216}} & \textcolor[HTML]{A3DA37}{\textbf{0.6425}}\\
+\hline
+CIT & MCM5 & \textcolor[HTML]{56C667}{\textbf{0.4458}} & \textcolor[HTML]{31678E}{\textbf{-0.1885}} & \textcolor[HTML]{9FDA3A}{\textbf{0.6344}}\\
+\hline
+MAU2 & MCM5 & \textcolor[HTML]{46C06F}{\textbf{0.3977}} & \textcolor[HTML]{34618D}{\textbf{-0.2249}} & \textcolor[HTML]{9BD93C}{\textbf{0.6227}}\\
+\hline
+CDC123 & MCM5 & \textcolor[HTML]{3CBC74}{\textbf{0.3662}} & \textcolor[HTML]{365D8D}{\textbf{-0.2473}} & \textcolor[HTML]{95D840}{\textbf{0.6135}}\\
+\hline
+AVPI1 & MCM5 & \textcolor[HTML]{40BD72}{\textbf{0.3841}} & \textcolor[HTML]{34608D}{\textbf{-0.2282}} & \textcolor[HTML]{95D840}{\textbf{0.6124}}\\
+\hline
+CALM2 & CDK1 & \textcolor[HTML]{8AD647}{\textbf{0.5872}} & \textcolor[HTML]{26818E}{\textbf{-0.0251}} & \textcolor[HTML]{95D840}{\textbf{0.6124}}\\
+\hline
+BUB1B & CKAP2 & \textcolor[HTML]{69CD5B}{\textbf{0.5017}} & \textcolor[HTML]{2B748E}{\textbf{-0.103}} & \textcolor[HTML]{93D741}{\textbf{0.6047}}\\
+\hline
+MAPRE1 & MCM5 & \textcolor[HTML]{44BF70}{\textbf{0.3923}} & \textcolor[HTML]{33638D}{\textbf{-0.2108}} & \textcolor[HTML]{91D742}{\textbf{0.6031}}\\
+\hline
+USP16 & MCM5 & \textcolor[HTML]{42BE71}{\textbf{0.3856}} & \textcolor[HTML]{33628D}{\textbf{-0.216}} & \textcolor[HTML]{91D742}{\textbf{0.6016}}\\
+\hline
+BIRC6 & MNAT1 & \textcolor[HTML]{44BF70}{\textbf{0.3924}} & \textcolor[HTML]{32648E}{\textbf{-0.2069}} & \textcolor[HTML]{91D742}{\textbf{0.5993}}\\
+\hline
+KIF2C & MCM5 & \textcolor[HTML]{40BD72}{\textbf{0.3823}} & \textcolor[HTML]{33628D}{\textbf{-0.2169}} & \textcolor[HTML]{91D742}{\textbf{0.5992}}\\
+\hline
+ANLN & MNAT1 & \textcolor[HTML]{48C16E}{\textbf{0.404}} & \textcolor[HTML]{31668E}{\textbf{-0.1945}} & \textcolor[HTML]{91D742}{\textbf{0.5986}}\\
+\hline
+SMC2 & MNAT1 & \textcolor[HTML]{4BC26C}{\textbf{0.4137}} & \textcolor[HTML]{31688E}{\textbf{-0.1832}} & \textcolor[HTML]{8FD644}{\textbf{0.5969}}\\
+\hline
+CDK1 & MCM5 & \textcolor[HTML]{6CCD5A}{\textbf{0.5098}} & \textcolor[HTML]{2A778E}{\textbf{-0.0866}} & \textcolor[HTML]{8FD644}{\textbf{0.5964}}\\
+\hline
+BIRC6 & ANAPC1 & \textcolor[HTML]{4FC36A}{\textbf{0.4261}} & \textcolor[HTML]{30698E}{\textbf{-0.1703}} & \textcolor[HTML]{8FD644}{\textbf{0.5964}}\\
+\hline
+CALM2 & MNAT1 & \textcolor[HTML]{4AC16D}{\textbf{0.4087}} & \textcolor[HTML]{31688E}{\textbf{-0.1863}} & \textcolor[HTML]{8FD644}{\textbf{0.595}}\\
+\hline
+MNAT1 & CALM1 & \textcolor[HTML]{46C06F}{\textbf{0.399}} & \textcolor[HTML]{31668E}{\textbf{-0.1956}} & \textcolor[HTML]{8FD644}{\textbf{0.5946}}\\
+\hline
+WTAP & MNAT1 & \textcolor[HTML]{4BC26C}{\textbf{0.4166}} & \textcolor[HTML]{30688E}{\textbf{-0.176}} & \textcolor[HTML]{8DD645}{\textbf{0.5926}}\\
+\hline
+STRADA & MCM5 & \textcolor[HTML]{3CBC74}{\textbf{0.3657}} & \textcolor[HTML]{34618D}{\textbf{-0.2226}} & \textcolor[HTML]{8DD645}{\textbf{0.5883}}\\
+\hline
+CALM2 & CIT & \textcolor[HTML]{66CB5D}{\textbf{0.4897}} & \textcolor[HTML]{2B758E}{\textbf{-0.098}} & \textcolor[HTML]{8DD645}{\textbf{0.5876}}\\
+\hline
+CIT & UHRF1 & \textcolor[HTML]{5FCA61}{\textbf{0.4729}} & \textcolor[HTML]{2C728E}{\textbf{-0.1131}} & \textcolor[HTML]{8AD647}{\textbf{0.5861}}\\
+\hline
+CKS2 & CDK1 & \textcolor[HTML]{91D742}{\textbf{0.5985}} & \textcolor[HTML]{24868E}{\textbf{0.0125}} & \textcolor[HTML]{8AD647}{\textbf{0.586}}\\
+\hline
+\end{tabular}
+\end{table}
